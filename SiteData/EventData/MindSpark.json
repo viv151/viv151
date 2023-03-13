@@ -1,0 +1,252 @@
+[
+  {
+    "allEventLink": "https://google.com",
+    "title": "Turn Coat",
+    "slug": "turn-coat",
+    "price": 60,
+    "ticketId": "2737833",
+    "participants": "1",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649427065/Mindsparks-thumbnail/turncoat-508_s3i8mf.webp",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649430935/Mindspark-banner/turncoat-1440_b1xqsn.webp",
+    "overview": [
+      "This is an event that provides a stage for the participants, where they can show their speaking skills. It helps the participants to groom up their confidence level. The speaker will have to talk on a given topic for 5 MINUTES without hesitation, repetition, or deviation."
+    ],
+    "eventStructure": [
+      "In this event, the participant has to pick up a chit having a certain topic written on it and swing between “for” and “against” the topic.",
+      "The speaker will have to toggle between “for” and “against” multiple times for 3-5 mins whenever “SWITCH” is commanded."
+    ],
+    "rules": [
+      "English will be the only mode allowed.",
+      "A detailed set of rules will be provided on the spot.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Mock Parliament",
+    "slug": "mock-parliament",
+    "price": 60,
+    "participants": "1",
+    "ticketId": "2737834",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649427062/Mindsparks-thumbnail/mock-parliament-508_goefhz.webp",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649430880/Mindspark-banner/mock-parliament-1440_sxn6fc.webp",
+    "overview": [
+      "Mock parliament is an academic simulation of the parliament where students play the role of delegates, who are from different states and they attempt to solve real national issues using the policies and perspectives of their assigned state' opposition to the government."
+    ],
+    "eventStructure": [
+      "Each participant will be assigned a state, which will be chosen by the management, and a stimulating national agenda, which affects all the participant states, will be given.",
+      "This information will be provided to the participants via mail 3 days before the event."
+    ],
+    "rules": [
+      "The detailed flow of the event along with their respective states and rules and procedures will be mailed to the participants one week before the event so that they have a proper time to prepare themselves. English/Hindi is compulsory.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "GD (Group Discussion) / PI (Personal Interview)",
+    "slug": "gd-pi",
+    "price": 60,
+    "participants": "1",
+    "ticketId": "2737835",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650091353/Mindsparks-thumbnail/GROUP_DISCUSSION_ehg464.webp",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650091421/Mindspark-banner/GROUP_DISCUSSION_pai3bg.webp",
+    "overview": [
+      "Mock GD/PI will help the participant to know his/her position in a highly competitive environment. The whole event will provide an opportunity for the participants to feel and go through the whole placement proce."
+    ],
+    "eventStructure": [
+      "The whole event is divided into two parts.",
+      "First, there will be a group discussion followed by a personal interview. The first round will be an elimination round.",
+      "Those who clear the GD round will have to appear for the PI round."
+    ],
+    "rules": [
+      "All the participants should be well dressed, if possible in formals.",
+      "They should bring a hard copy of their CV/Resume, as they will have to show it during the PI round.",
+      "In case of any disputes, management's decision will be final.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Spell Bee",
+    "slug": "spell-bee",
+    "price": 60,
+    "participants": "1",
+    "ticketId": "2737837",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649427062/Mindsparks-thumbnail/spelling-bee-508_lp7d4w.png",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649430895/Mindspark-banner/spelling-bee-1440_f9l9p2.png",
+    "overview": [
+      "An event for all the literature lovers out there. The expertise of spelling, pronunciation, and hearing will be under test."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "The first round will be the dictation round where around 20-30 words would be enunciated and participants are supposed to write the spelling.",
+      "ROUND 2:",
+      "In the second round, each participant will be given 3 words and they have to enunciate and tell the meaning of all three words. Point distribution and rules will be explained on the spot.",
+      "ROUND 3:",
+      "In the third round, words will be given and you have to pronounce them right. Around 10-12 participants will be there in this round."
+    ],
+    "rules": [
+      "The rules and structure of the game will be explained to the participants at the time of the event.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "UnFold",
+    "slug": "unfold",
+    "price": 100,
+    "participants": "2",
+    "ticketId": "2737838",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650091362/Mindsparks-thumbnail/UNFOLD_xlvz37.webp",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650091445/Mindspark-banner/UNFOLD_arh5jd.webp",
+    "overview": [
+      "The event “unfold” is all about being aware of current affairs. Whereas, one must have to read the newspaper. Furthermore, this game is all about having fun and sharpening one’s mind which also improves vocabulary, writing skills, and many more."
+    ],
+    "eventStructure": [
+      "This game consists of 3 rounds in which the participants will have to go through some tasks where they have to answer the questions on current affairs and the participants who have answered correctly will be qualified.",
+      "ROUND 1:",
+      "In this round participants have to answer the given questions (MCQs) and submit answers.",
+      "ROUND 2:",
+      "The participants will be given an annotated report which in terms of journalism means “badly written”. It may contain wrong grammar, commas, incorrect spellings, and many other mistakes.",
+      "The participants will have to edit the report and type it correctly within prescribed time limits. Also, the participants need to give the report an appropriate title.",
+      "ROUND 3:",
+      "   Section A:",
+      "       The participants will have to write a report on a given topic which will be given on the spot.",
+      "       This report has a word limit of 100.",
+      "       A normal newspaper report format can be used.",
+      "   Section B: (fastest finger first)",
+      "       The participants will have to go through the fastest finger first where they will have to manage time and answer the questions quickly."
+    ],
+    "rules": [
+      "Participants have to remain present at the time of the event.",
+      "Participants must answer the question within the given time limit.",
+      "If participants are found doing discussions or cheating, they will be disqualified.",
+      "The participation fee for a team of 2 participants is Rs 100.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "General Quiz",
+    "slug": "general-quiz",
+    "price": 100,
+    "participants": "1-2",
+    "ticketId": "2737836",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650091353/Mindsparks-thumbnail/GENERAL_QUIZ_jr7mi9.webp",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650091416/Mindspark-banner/GENERAL_QUIZ_mefzbz.webp",
+    "overview": [
+      "General Quiz as the name speaks out itself that this event will be carried out in the form of a Quiz. The questions will be based on topics like: Current affairs, Sports, Music, Arts, History, Movies, Business, Science and Technology, Popular Culture, etc."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "It will be conducted in pen-paper mode and answers will be accepted in the written form only.",
+      "The question forms will be distributed to all the participants at the time of the event, the time will be provided a day before the event.",
+      "There will be 20 questions.",
+      "No negative markings, 1 mark for each correct answer.",
+      "The top 10 teams will qualify for the next round.",
+      "ROUND 2:",
+      "The questions will be asked individually and in a Bounce-Pounce fashion. (The system of Bounce-Pounce will be explained at the time of the Final Round).",
+      "The Top 3 teams will be rewarded as per their positions."
+    ],
+    "rules": [
+      "The form must be submitted before the given deadline.",
+      "No late submissions will be accepted afterward.",
+      "In case of any dispute, the decision of the management will be considered final.",
+      "Support of any online sources/Google search will lead to immediate disqualification; one must answer based on his/her knowledge",
+      "Violation of any rule will lead to your disqualification.",
+      "The participation fee for a team of 2 participants is Rs 100.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Stock Street",
+    "slug": "stock-street",
+    "ticketId": "2737839",
+    "price": 60,
+    "participants": "1",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650091359/Mindsparks-thumbnail/STOCK_STREET_isjstl.webp",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650091436/Mindspark-banner/STOCK_STREET_pz99mq.webp",
+    "overview": [
+      "The stock market is a game of the alert mind, time, and risk-taking ability. For being a good stockbroker, one must have a strong eye for current affairs. This game will make you realize how small things matter in a stock market."
+    ],
+    "eventStructure": [
+      "ROUND 1: Real-Time Trading",
+      "In this round the participants have to download an app, a link will be provided by the event volunteer through mail or message.",
+      "That app will provide you virtual money. Using that, the participants have to trade stocks and try to make their portfolios good.",
+      "All the participants will be added to the private room created by the management team within the app so that you can get the real-time experience of trading and feel the competition.",
+      "The participants with the best portfolio will qualify for the next round.",
+      "Detailed information for this round will be given before the event starts.",
+      "ROUND 2: Quiz",
+      "This round will be like a Quiz. The questions will be given to them via google forms with a certain time limit",
+      "The questions will be regarding some companies and their stock market analysis. Small hints will also be provided for some questions.",
+      "Participants with the most correct answer in the given time limit will be the winner of this event."
+    ],
+    "rules": [
+      "The participants must remain present at the time of the event",
+      "The app link for Round 1 will be provided to the participants on the day of the event.",
+      "Further instructions regarding the event will be explained on the day of the event.",
+      "The participation fee for individual participationis Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Intrigued Mappers",
+    "slug": "intrigued-mappers",
+    "ticketId": "2737840",
+    "price": 60,
+    "participants": "1",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650091356/Mindsparks-thumbnail/INTRIGUED_MAPPERS_kgvjuq.webp",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650091429/Mindspark-banner/INTRIGUED_MAPPERS_twmntm.webp",
+    "overview": [
+      "It is a web-based geographic discovery game. The game requires players to guess their location in the world using only the clues that are visible on the map. From the maps presented, things such as road signs, vegetation, businesses, climate, and landmarks have been suggested as some clues that may help the player determine their location. Further details will be provided on the day of the event."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "Consists of 4 legs. Each leg consists of 5 unique semi-randomized destinations. Few of the top participants will be selected for the next round.",
+      "ROUND 2:",
+      "Consists of 4 legs. Each leg consists of 5 unique semi-randomized destinations. Few top participants will be selected for the next round. (Map Will be different from the previous round",
+      "ROUND 3:",
+      "Consists of 4 legs. Each leg consists of 5 unique semi-randomized destinations. The top 3 participants will be announced as winners",
+      "(Map Will be different from the previous round and the difficulty level would rise a bit. )"
+    ],
+    "rules": [
+      "In case the participant arrives late, no consideration will be given and would have to play with the remaining time.",
+      "The number of rounds may change as per the total number of participants.",
+      "Google search is allowed.",
+      "The performance will be directly linked to the number of points scored in each round.",
+      "The participation fee for individual participationis Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  }
+]

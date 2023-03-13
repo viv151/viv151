@@ -1,0 +1,214 @@
+[
+  {
+    "allEventLink": "https://google.com",
+    "title": "IT quiz",
+    "slug": "it-quiz",
+    "price": 60,
+    "ticketId": 2737811,
+    "participants": "1",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649492473/technical-thumbnail/codester/IT-QUIZ-card_htc5ot.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649342660/banners/IT_QUIZ_main_iofric.webp",
+    "overview": [
+      "The 'IT QUIZ' is a quiz competition, which is based on IT-related question.",
+      "It is an event which tests your knowledge along with your speed."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "There will be a google form given to all the participants which includes 30 questions (20 general questions,5 coding related,5 tricky questions)",
+      "The time limit will be 25 minutes.",
+      "The correct answer will add +1 marks and the incorrect answer will reduce marks by –1.",
+      "ROUND 2:",
+      "There will be 15 questions.",
+      "It will be a buzzer round that accepts the ‘first come first serve’ strategy.",
+      "Questions will be a little bit complex from the previous round.",
+      "ROUND 3:",
+      "This round will be like KBC.",
+      "There will be 15 questions & 2 lifelines (50-50 & ask your opponents)."
+    ],
+    "rules": [
+      "Participants must have to submit the form within the time limit. After that, no excuses will be entertained.",
+      "If the participant is caught cheating/using any unfair means, he/she will be disqualified.",
+      "Participants must bring their mobile phones with an active internet connection."
+    ],
+    "criteria": [
+      "For the first round, the judging criteria will be marks. In the case of a tie/draw, submission time will be the next judging criteria.",
+      "For the second & third rounds, the judging criteria will be the no. of correct answers of each team/participant. In case of a tie/draw after 15 questions, 3 bonus questions will be asked.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be awarded with cash and attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Debug IT",
+    "slug": "debug-it",
+    "price": 60,
+    "ticketId": 2737813,
+    "participants": "1",
+    "description": "none",
+    "date": "28-30 April",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649342924/banners/DEBUG_IT_main_zrjw4c.webp",
+    "overview": [
+      "The 'IT QUIZ' is a quiz competition, which is based on IT-related question.",
+      "It is an event which tests your knowledge along with your speed."
+    ],
+    "eventStructure": [
+      "There will be 5-6 problem statements.",
+      "The first 3 problems will be of easy level.",
+      "While basic knowledge of DSA (Data structure and algorithm) concepts will be required for the last 2 to 3 problems. The problems will be identical for both languages. (We'll be providing 2 templates with every problem, one for each language.",
+      "Languages: C++, Python.",
+      "Platform: CodeChef.",
+      "Topics: Patterns, Observation, Data Structures, Recursion and Searching.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Insight Coding",
+    "slug": "insight-coding",
+    "price": 60,
+    "ticketId": 2737812,
+    "participants": "1",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649341458/banners/Insight_coding_szgfb8.jpg",
+    "overview": [
+      "Here participants will write the code for the given task.",
+      "The monitor will remain off.",
+      "This event will check your typing as well as coding skills",
+      " Languages For Coding: C or C++"
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      " 2 to 3 problems will be given in this round and participants have to write the code for the problem in any preferred language(C/C++).",
+      "Problems in this round will be of easy level.",
+      "ROUND 2:",
+      "In this round, the difficulty of the problem will be slightly increased from easy to the moderate level",
+      "There will be 2 to 3 problems in this round also."
+    ],
+    "rules": [
+      "The languages allowed are C & C++.",
+      "Cell phones must be switched off.",
+      "Paper will be provided to the participants.",
+      "Any violation of rules may lead to your disqualification",
+      "In case of any dispute, management's decision will be regarded as final."
+    ],
+    "criteria": [
+      "Participants will be judged based on the number of error-free questions solved by them and the time taken by them i.e if any two contestants end up solving the same number of questions then the one who took less time will be prioritized.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be awarded with cash and attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Web O Thon",
+    "slug": "web-o-thon",
+    "price": 100,
+    "ticketId": 2737809,
+    "participants": "2",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649492476/technical-thumbnail/codester/web-o-thon-card_lnlxch.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649342727/banners/web-o-thon_main_rzavex.webp",
+    "overview": [
+      "WEB-O-THON is an event that tests your skills and embraces you to the world of web designing and web development by using multidimensional skills in HTML, CSS, PHP/JAVA/Python(or any other Backend language) along with teamwork."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "The first round will include developing a front-end for the given project",
+      "Participants can use any programming language/framework.",
+      "ROUND 2:",
+      "It includes integrating the backend with the previous web pages.",
+      "And finally, presenting the whole project to the judges."
+    ],
+    "rules": [
+      "The topic for the web page will be provided at the time of the competition.",
+      "Participants must compulsorily come with their laptops.",
+      "Participants are not allowed to bring any media devices such as pen drives, etc.",
+      "Cell phones must be switched off",
+      "The 1st round will be of 30 minutes, the 2nd round will be of 45 minutes and the final round will be of 60 minutes."
+    ],
+    "criteria": [
+      "Winners will be selected based on points. In the case of the same points, creativity, vision, time management, and their skills in programming will be considered",
+      "The participation fee for a team of 2 participants is Rs 100.",
+      "Winners will be awarded with cash and attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Code Wars",
+    "slug": "code-wars",
+    "price": 60,
+    "ticketId": 2737814,
+    "participants": "1",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649492470/technical-thumbnail/codester/code-wars-card_slv68x.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649342524/banners/CODE_WARS_main_ddzqpw.webp",
+    "overview": [
+      "Code wars is a programming contest based on data structures, algorithms, and problem-solving having an easy to moderate level of difficulty",
+      "Participants will be given a few problems.",
+      "For each problem, they will be given input and output format and many test cases that will help them to know the solution to the given problems.",
+      "Basically, participants have to crack the problem, code it, and submit their code."
+    ],
+    "eventStructure": [
+      "You will have a few problems based on DSA on a platform called CodeChef.",
+      "The ranking and the results will be shown on CodeChef itself."
+    ],
+    "rules": [
+      "Ranking would be based on ICPC Style Rank List.",
+      "(For more details: https://www.codechef.com/rankings)",
+      "The contest would be hosted on the CodeChef Platform. (https://www.codechef.com/hostyourcontest)."
+    ],
+    "criteria": [
+      "Participants will be ranked based on the score they get.",
+      "In case of a tie, the rankings will be determined by 'Total Penalty', which is the sum of the total time elapsed when you submitted the correct submission plus a penalty of 'X' minutes for every rejected submission (Wrong answer, Time limit exceeded, Runtime Error) for the problem you solved.",
+      "The lower your Total Penalty, the better position you occupy.",
+      "The participation fee for individual participation is Rs 60",
+      "Winners will be awarded with cash and attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Crack It Up",
+    "slug": "crack-it-up",
+    "price": 60,
+    "ticketId": 2737815,
+    "participants": "1",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649492471/technical-thumbnail/codester/crack-it-up-card_lyut8b.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649342594/banners/CRACK_IT_UP_main_ijkj3m.webp",
+    "overview": [
+      "Crack it up is an interview preparation event. The event simulates the standard hiring process of tech jobs followed by numerous tech-giants."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "This round consists of 35 multiple-choice questions(MCQs) to be completed within 25 minutes. The questions will be based on Problem-solving and Object-Oriented Programming.",
+      "ROUND 2:",
+      "This round will be a real-time programming contest. This contest consists of 4 to 5 problems to be solved by submitting Java/C++/Python Code. The contest duration is 90 Minutes.",
+      "ROUND 3:",
+      "This round is a mock interview. Further information will be provided on the day of the event",
+      "PLATFORM :",
+      "CodeForces/CodeChef, Google Meet."
+    ],
+    "rules": [
+      "Rules and regulations regarding the event will be told to you on the day of the event",
+      "The participation fee for individual participation is Rs 60",
+      "Winners will be awarded with cash and attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ],
+    "criteria": [
+      "Participants will be judged based on the number of questions they solve and the time taken by them i.e if any two contestants end up solving the same number of questions, then the one who took the least time will be declared as the winner."
+    ]
+  }
+]

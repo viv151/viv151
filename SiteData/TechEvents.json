@@ -1,0 +1,17 @@
+[
+  {
+    "dept": "comp-it",
+    "events": [
+      {
+        "title": "Event 1",
+        "img": "https://picsum.photos/500/300",
+        "description": "description of dis event"
+      },
+      {
+        "title": "Event 1",
+        "img": "https://picsum.photos/500/300",
+        "description": "description of dis event"
+      }
+    ]
+  }
+]

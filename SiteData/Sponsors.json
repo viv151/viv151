@@ -1,0 +1,154 @@
+{
+  "single": [
+    {
+      "title": "IN ASSOCIATION WITH",
+      "name": "Uniconnect",
+      "link": "https://uniconnectedu.com/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650485172/Sponsors/Uniconnect_byvqvj.png"
+    },
+    {
+      "title": "KNOWLEDGE PARTNER",
+      "name": "Fidelity Immigration",
+      "link": "https://www.fidelityoverseas.com/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649934869/Sponsors/Fidelity_nwngws.png"
+    },
+    {
+      "title": "EDUCATION PARTNER ",
+      "name": "EduGATE",
+      "link": "https://edugateacademy.com/",
+      "image": "https://res.cloudinary.com/lakshyafest/image/upload/v1649214767/sponsors/edugate-images_rkxiol.webp"
+    },
+    {
+      "title": "LEARNING PARTNER",
+      "name": "MyStudia",
+      "link": "https://www.mystudia.com/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650710379/Sponsors/MyStudia_Horizontaltext_emeikg.webp"
+    },
+    {
+      "title": "ONLINE TICKETING PARTNER",
+      "name": "AllEvents.in",
+      "link": "https://allevents.in/",
+      "image": "https://res.cloudinary.com/lakshyafest/image/upload/v1649233493/sponsors/allevents_cty0xu.webp"
+    },
+    {
+      "title": "PHOTOGRAPHY PARTNER",
+      "name": "Photo tenic",
+      "link": "https://sites.google.com/view/photo-technic-interactive/home",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650092121/Sponsors/Photo_technic_yralzs.png"
+    },
+    {
+      "title": "FITNESS PARTNER",
+      "name": "Ultimate Fitness Partner",
+      "link": "",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650487222/Sponsors/UFC_l7j7yq.png"
+    }
+  ],
+  "tech": ["TECHNOLOGY PARTNER",
+    {
+      "name": "DIT",
+      "link": "https://ditindia.com/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650485031/Sponsors/DIT_c2brnl.png"
+    },
+    {
+      "name": "Pristine",
+      "link": "https://www.pristineinfo.in/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650485100/Sponsors/Pristine_otvqdr.png"
+    }
+  ],
+  "workshop": [
+    "WORKSHOP PARTNER",
+    {
+      "name": "IANT",
+      "link": "https://iantindia.com/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650485065/Sponsors/IANT_y8gcnx.jpg"
+    },
+    {
+      "name": "Strawberry",
+      "link": "",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650092134/Sponsors/Strawberry_qqgq06.png"
+    },
+    {
+      "name": "Pristine",
+      "link": "https://www.pristineinfo.in/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650485100/Sponsors/Pristine_otvqdr.png"
+    }
+  ],
+  "stall": [
+    "STALL PARTNER",
+    {
+      "name": "Time",
+      "link": "https://www.time4education.com/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650092283/Sponsors/TIME_a7sz1h.png"
+    },
+    {
+      "name": "Renaissance",
+      "link": "https://renaissanceimmigration.ca/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650485136/Sponsors/renaissance_wba2sp.png"
+    },
+    {
+      "name": "Care Immigration",
+      "link": "https://care-immigration-visa-services.business.site/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650092269/Sponsors/CARE_evohzn.jpg"
+    },
+    {
+      "name": "Skik",
+      "link": "https://www.skikinternational.org/",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650486910/Sponsors/skik_e25whp.jpg"
+    }
+  ],
+  "food": [
+    "FOOD PARTNER",
+    {
+      "name": "The Happening House",
+      "link": "",
+      "image": "https://res.cloudinary.com/lakshyafest/image/upload/v1649214770/sponsors/Happening_House_bhysnr.webp"
+    },
+    {
+      "name": "Biggies Burger",
+      "link": "",
+      "image": "https://res.cloudinary.com/lakshyafest/image/upload/v1649214767/sponsors/biggies-burger_ih2qgt.webp"
+    },
+    {
+      "name": "Rajdeep de kulche",
+      "link": "",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650484936/Sponsors/RajdeepDeKulche-01_pf7ia2.png"
+    },
+    {
+      "name": "Panjab Paratha House",
+      "link": "",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650484926/Sponsors/PUNJABI_PARATHA_HUB_pldatp.png"
+    },
+    {
+      "name": "william johns",
+      "link": "",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650484898/Sponsors/WhatsApp_Image_2022-04-08_at_4.32.59_PM_w4knjs.jpg"
+    },
+    {
+      "name": "Bombay Street",
+      "link": "",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650484870/Sponsors/IMG-20210731-WA0007_swqmfa.jpg"
+    }
+  ],
+  "home": [
+    {
+      "title": "IN ASSOCIATION WITH",
+      "name": "Uniconnect",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650485172/Sponsors/Uniconnect_byvqvj.png"
+    },
+    {
+      "title": "KNOWLEDGE PARTNER",
+      "name": "Fidelity Immigration",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649934869/Sponsors/Fidelity_nwngws.png"
+    },
+    {
+      "title": "EDUCATION PARTNER ",
+      "name": "EduGATE",
+      "image": "https://res.cloudinary.com/lakshyafest/image/upload/v1649214767/sponsors/edugate-images_rkxiol.webp"
+    },
+    {
+      "title": "LEARNING PARTNER",
+      "name": "MyStudia",
+      "image": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1650710379/Sponsors/MyStudia_Horizontaltext_emeikg.webp"
+    }
+  ]
+}

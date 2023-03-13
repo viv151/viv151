@@ -1,0 +1,131 @@
+[
+  {
+    "allEventLink": "https://google.com",
+    "title": "Bridge The Gap",
+    "slug": "bridge-the-gap",
+    "price": 240,
+    "ticketId": "2737826",
+    "participants": "3-4",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649431255/technical-banner/civilution/Bridge_the_gap_ffwazj.webp",
+    "overview": [
+      "The participating teams have to design a suspension bridge with the help of popsicle sticks, fevicol, and other necessary equipment while keeping in mind all the important aspects such as load-carrying capacity, aesthetic, seismic criteria. The participants are free to implement other ideas as per their imagination and skills"
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "The participants will have to make a model of a bridge keeping all the criteria in mind using the material provided by us.",
+      "Further instructions and minimum dimensions for the length, width, and height of the bridge will be given on the day of the event.",
+      "ROUND 2: (Tiebreaker)",
+      "Selected teams will have to give answers to the questions related to the structural engineering domain.",
+      "Further, the model made by them will undergo seismic loading."
+    ],
+    "rules": [
+      "Only Popsicle sticks and glue will be provided to you, participants will have to bring all the remaining decorative materials by themselves.",
+      "Sticks can be altered physically by cutting or notching at any angle. (Cutter should be brought by the participants)",
+      "Only Fevicol can be used as adhesive, use of other adhesives may lead to disqualifications.",
+      "The use of threads is not allowed.",
+      "The overlapping between two sticks should be more than 40%.",
+      "The maximum number of sticks that can stack together is three.",
+      "For the event, participants will have 3 hours to complete their model.",
+      "In case of any discrepancies, the decision taken by the organizing committee will be the final.",
+      "The participation fee for a team of 3-4 participants is Rs 240.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "City Mania",
+    "slug": "city-mania",
+    "price": 150,
+    "ticketId": "2737824",
+    "participants": "2-3",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649431277/technical-banner/civilution/CITY_MANIA_mtyu9q.webp",
+    "overview": [
+      "The participating teams have to design a town/city with all the important aspects such as zoning, aesthetic view, and road networks. The participants are free to implement other ideas as per their imagination and skills."
+    ],
+    "problemStatement": [
+      "All the participants will be provided with thermocol, cardboard, pins, thread, fevicol as decided by the management and the participants will have to prepare a basic model of the town/city with all the important aspects like zoning, aesthetic view, and road network. The participants will have to use their own method to design the city according to their ideas and creativity. After that, some selected students will have to present their town model."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "The participants will have to make a model of a city by keeping in mind all the criteria using the materials provided by us.",
+      "The team that builds the city model, meeting all the basic criteria and requirements will be selected for Round-2.",
+      "ROUND 2:",
+      "Selected teams will have to give a brief presentation of their model.",
+      "Winners of the event will be decided based on their model and presentation."
+    ],
+    "rules": [
+      "Further instructions will be given on the day of the event.",
+      "The materials to be provided for the participants will be thermocol, cardboard, fevicol, pins, and threads.",
+      "All the other necessary materials will have to be brought by the participants themselves.",
+      "For Round 1, participants will have 3 hours to complete their model.",
+      "The model should fulfill the required criteria.",
+      "Violation of any rule will be followed by instant disqualification.",
+      "The participation fee for a team of 2-3 participants is Rs 150.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Scavenger Hunt",
+    "slug": "scavenger-hunt",
+    "price": 150,
+    "ticketId": "2737825",
+    "participants": "2-3",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649431299/technical-banner/civilution/SCAVENGER_HUNT_bgdza0.jpg",
+    "overview": [
+      "It is a treasure hunt event based on civil engineering. You'll be provided with certain clues, and based on the clues you need to solve the hunt"
+    ],
+    "problemStatement": [
+      "All the participants will be provided with a list of questions (clues/riddles) which on solving leads to various locations of the college"
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "In this round, participants will have to solve some questions (clues/riddles).",
+      "The list of questions will be given randomly.",
+      "Further instructions will be given to you on the day of the event."
+    ],
+    "rules": [
+      "The questions given should be solved in sequence and with respect to the list given.",
+      "In case of conflict, the decision taken by the organizers will be considered final and no further excuses will be entertained.",
+      "Mobile phones, smartwatches, or any other smart devices are not allowed during the hunt.",
+      "The participants who are not well known about the college campus will be provided a campus map for their convenience to travel.",
+      "The participation fee for a team of 2-3 participants is Rs 150.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Theodo Lit O",
+    "slug": "theodo-lit-o",
+    "price": 60,
+    "ticketId": "2737827",
+    "participants": "1",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649431324/technical-banner/civilution/Theodo_a17nmm.jpg",
+    "overview": [
+      "The technical team will set up the Theodolite apparatus and obtain the correct readings beforehand. Every participant has to obtain readings by carrying out a theodolite survey. The participant achieving the correct/closest reading and in the least amount of time shall be declared as the winner."
+    ],
+    "rules": [
+      "The participant completing the task in the least amount of time will be declared as the winner",
+      "Points will be awarded for correct readings.",
+      "The given task has to be completed within a specific period of time.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  }
+]

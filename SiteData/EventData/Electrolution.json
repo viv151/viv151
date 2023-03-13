@@ -1,0 +1,137 @@
+[
+  {
+    "allEventLink": "https://google.com",
+    "title": "Lazer Maze",
+    "slug": "lazer-maze",
+    "price": 180,
+    "ticketId": 2737816,
+    "participants": "2-3",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649341514/banners/Laser_Maze_xl8rhn.jpg",
+    "overview": [
+      "Participants will be provided with a laser source and mirrors. Students are not allowed to bring anything along with them, everything will be provided by the management."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "First-round is pattern generation. A pattern will be given to the contestants. They have to make the pattern using the given laser and mirror, using laws of reflection.",
+      "ROUND 2:",
+      "The second round is a race to finish!!!",
+      "Participants have to race their laser lights to the destination amidst all the obstacles using mirrors without their laser touching the obstacles. Whoever finishes first, wins!"
+    ],
+    "rules": [
+      "In case of any dispute, management's decision will be final.",
+      "Participants have to report to the venue 10 minutes before the event starts.",
+      "Organizers will have the authority to change the rules under certain conditions.",
+      "The participation fee for a team of 2-3 participants is Rs 180.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Circuit Mania",
+    "slug": "circuit-mania",
+    "price": 120,
+    "ticketId": 2737817,
+    "participants": "2",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649341297/banners/CITY_MANIA_zeis3i.webp",
+    "overview": [
+      "Circuit Mania is the implementation of electronic circuits on a breadboard. Participants are required to complete a given circuit in the least time. Problems based on digital networks and circuits will be provided to participants, they have to submit them within a time limit"
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "A crossword of electronic questions will be provided and each answer will have specific points",
+      "The total score will be evaluated after the provided time limit is over",
+      "ROUND 2:",
+      "Participants will be given circuit/equations to solve in a given time limit. The teams will be selected based on the time limit in which they have completed the task given to them.",
+      "ROUND 3:",
+      "All teams will be provided a single task to win the event and all the teams will have to implement that task on the breadboard.",
+      "The team that completes the task faster/takes the least amount of time will be declared as the winner"
+    ],
+    "rules": [
+      "Teams have to bring breadboard and other components(like multimeter,etc) along with them.",
+      "n case of any disputes, management's decision will be final.",
+      "Participants have to report at the venue 10 minutes before the event starts.",
+      "Organizers will have the authority to change the rules under certain conditions",
+      "The participation fee for a team of 2-3 participants is Rs 120.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Arduino Hackathon",
+    "slug": "arduino-hackathon",
+    "price": 60,
+    "ticketId": 2737818,
+    "participants": "1",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://picsum.photos/1440/400",
+    "overview": [
+      "You will be provided with a real-life problem. You are required to design and simulate a circuit with Arduino as a part of it in TinkerCad to solve the problem statement and submit it in the least time. As the name already suggests the questions will be based on topics related to Arduino like",
+      "Arduino Architecture",
+      "Types of Arduino",
+      "Working and Functions of Arduino",
+      "Arduino History",
+      "Code for Arduino IDE and Simulation."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "There will be some coding questions related to Arduino.",
+      "Participants need to solve it and submit it in the given time duration.",
+      "Link to submit answers will be given to all participants through mail or message.",
+      "ROUND 2:",
+      "The participant has to make the circuit diagram and simulate the code. (Use Tinker cad)"
+    ],
+    "rules": [
+      "There will be a short interactive session about the event before every round. All the information and doubts will be cleared in this interactive session.",
+      "You will have to use Tinker cad for the simulation of the circuit.",
+      "In case of any disputes, management's decision will be final.",
+      "Organizers will have the authority to change the rules under certain conditions.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Circuit Glow",
+    "slug": "circuit-glow",
+    "price": 200,
+    "participants": "4",
+    "ticketId": 2737819,
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649341241/banners/Circuit_Glow_jr9aje.webp",
+    "overview": [
+      "This event is based on the student's knowledge of complicated networks, network designing & managing techniques."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "Every group will be given circuits based on basic logical gates and the participants will have to first solve it on paper.",
+      "Then they will have to implement it on the breadboard which leads to the glowing of an LED. i.e., the correct binary number will glow an LED.",
+      "ROUND 2:",
+      "Qualifying teams will be given some clues and will have to find circuit diagrams and components.",
+      "ROUND 3:",
+      "The final teams entering this round will be given the circuit diagrams and they will have to implement them and show the outcome of the circuit.",
+      "The options of the possible circuits of the given ICs(Integrated Circuits) will be provided and the team that comes up with the correct option will win the event"
+    ],
+    "rules": [
+      "Participants have to bring their own components, only ICs will be provided by the Management.",
+      "In case of any disputes, management's decision will be final.",
+      "Participants have to report at the venue 10 minutes before the event starts.",
+      "Organizers will have the authority to change the rules under certain conditions.",
+      "The participation fee for a team of 4 participants is Rs 200.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  }
+]

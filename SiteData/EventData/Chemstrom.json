@@ -1,0 +1,94 @@
+[
+  {
+    "allEventLink": "https://google.com",
+    "title": "Chem Q",
+    "slug": "chem-q",
+    "price": 60,
+    "participants": "1",
+    "ticketId": "2737820",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://picsum.photos/1440/400",
+    "overview": [
+      "CHEM-Q is a quiz-based event that will test your knowledge of Chemistry and problem-solving questions related to Chemical Engineering."
+    ],
+    "eventStructure": [
+      "Before the event, there will be an introductory session in which we will provide all the information regarding the event.",
+      "ROUND 1:",
+      "In this round, there will be objective type questions which should be completed in the given time.",
+      "ROUND 2: (Fastest finger first)",
+      "In this round participants will be asked questions and priority will be given to the one who will raise his/her hand first for answering the questions.",
+      "ROUND 3:",
+      "All the participants will be asked some questions on the slides of a ppt and they will have to answer the question within the given time limit."
+    ],
+    "rules": [
+      "Accuracy and time constraints will be taken into consideration for the evaluation purpose.",
+      "In case of any conflict, misbehavior, or misconduct, the decision taken by the management team will be considered the final decision.",
+      "The participation fee for an individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Chem Q Hunt",
+    "slug": "chem-q-hunt",
+    "price": 150,
+    "participants": "2-3",
+    "ticketId": "2737821",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://picsum.photos/1440/400",
+    "overview": [
+      "It is a treasure hunt in which questions related to chemistry or chemical engineering will be given to the participating teams and they need to solve it and go to that particular point to collect other clues in the selected area of the college."
+    ],
+    "eventStructure": [
+      "There will be 2 rounds.",
+      "Our volunteer will be present at that pre-decided location and they will give you another clue and you will have to find the next location from that given clue. Teams need to complete this activity in some pre-specified time."
+    ],
+    "rules": [
+      "The first and last positions will be common for all the participants but the intermediate stations can be different.",
+      "Each team will be given a map of LDCE at the starting point.",
+      "Participant teams will be given different chits which includes clues of different places of LDCE.",
+      "When the team reaches the correct location, they will have to show the given clue to our volunteer and the volunteer will give another clue to them for the next location.",
+      "Teams need to show all the previous chits given to them and need to describe the last chit to cross-verify that they have not cheated in the game.",
+      "The first team to complete this game and reach the winning point in the given time limit will be declared the winner. They will have to show the clue chits given to them.",
+      "At all the stations our volunteers will remain present.",
+      "The participation fee for a team of 2-3 participants Rs 150.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Chem Lock",
+    "slug": "chem-lock",
+    "price": 180,
+    "participants": "2-3",
+    "ticketId": "2737822",
+
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649341203/banners/Chemlock_pzxllp.webp",
+    "overview": [
+      "This is a picture-based event.",
+      "In this event, participants have to find similarities and differences among the given pictures."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "In this round, the team has to choose an option that differs from the other three.",
+      "ROUND 2:",
+      "In this round, the team has to find the similarity among the given pictures."
+    ],
+    "rules": [
+      "Each question will have a time limit of 30 sec.",
+      "In case of any dispute, management's decision will be final.",
+      "The participation fee for a team of 2-3 participants Rs 150.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  }
+]

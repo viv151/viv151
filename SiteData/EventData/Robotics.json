@@ -1,0 +1,171 @@
+[
+  {
+    "allEventLink": "https://google.com",
+    "title": "maze runner",
+    "slug": "maze-runner",
+    "price": 250,
+    "ticketId": "2751187",
+    "participants": "2-3",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649427280/Robotics-thumbnails/maze-runner-508_mgwarw.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649340577/banners/maze-runner-1440_afev8h.webp",
+    "overview": [
+      "“The path may be lit or it may be dark. Follow the trail and emerge as the undefeated”.",
+      "The Line follower robot is an autonomous bot that can detect and follow any track. Generally, the path is a predefined visible black line on a white surface with a high contrasting color. Therefore, the task of this robot is to sense the path using sensors and to cover the track in the least possible time."
+    ],
+    "specifications": [
+      "The Robot must be strictly autonomous.",
+      "The width of the line will be less than 5cm.",
+      "Dimensions of the Robot should not exceed 30cm*30cm*30cm (l*b*h)",
+      "The participants have to ensure that room lighting, photography, etc. do not affect the functioning of the sensors.",
+      "In case of a tie, the better designed robot will be considered.",
+      "If none of the Robots finishes the course, then the one which covered the longest distance in the least time will be considered as the winner.",
+      "The power supply should be a maximum of 24V."
+    ],
+    "rules": [
+      "The Robot has to follow the line and complete the track in the least possible time.",
+      "A maximum of 3 touches will be allowed for each round. (Each touch makes a 5-sec penalty.)",
+      "Maximum 3 participants are allowed in a team.",
+      "Team members can be from different colleges.",
+      "The rough sketch of the track will be uploaded on the website on the day of the event.",
+      "Winners will be decided based upon the scores with the minimum number of penalties made.",
+      "In case of any tie-ups, winners will be decided based on the minimum number of errors i.e. the bot with minimum errors will be declared the winner and if there are any ties further, the efficient bot will be considered.",
+      "Workshop bots are allowed but given less priority.",
+      "The final decision lies in the hands of the organisors.",
+      "Robots completing the track in the least amount of time will win."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "labyrinth",
+    "slug": "labyrinth",
+    "price": 300,
+    "ticketId": "2751197",
+    "participants": "3-4",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649427276/Robotics-thumbnails/labyrinth-508_brjkfw.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649340553/banners/labyrinth-1440_hy0ndr.webp",
+    "overview": [
+      "In this event, the Robot has to pass several obstacles. The team which finishes the event in least amount of time will win. In the case of a tie, controllers used, weight, dimension, etc. will be taken into consideration."
+    ],
+    "rules": [
+      "The bot should cover the complete path of the arena, no shortcut will be allowed.",
+      "Any damage done by the bot to the arena will lead to disqualification of the team.",
+      "Organizers reserve the right to make modifications in the track in case of technical faults or case situation demands.",
+      "During the Round, a maximum of two team members are allowed in the arena, one member will control the robot and other to guide it.",
+      "The dimensions of the bot should not exceed 35cm*30cm*20cm.",
+      "The weight of the bot should not exceed 5 kg (including battery weight).",
+      "Potential at any point on the robot should not exceed 24V.",
+      "Participants cannot draw power from an outside source.",
+      "Control of the robot can be done either by wired communication or wireless communication system.",
+      "In the case of wired robots, the connecting wires from the robots to the remote control should not exceed 3 meters in length.",
+      "The timer will start when the robot starts from the starting point.",
+      "If the bot stops in the middle of the track, the team will not be given a second chance and will be disqualified.",
+      "In case of any disputes, the organizers' decision will be final."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Robo soccer",
+    "slug": "robo-soccer",
+    "price": 350,
+    "ticketId": "2751199",
+    "participants": "3-4",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649427292/Robotics-thumbnails/robo-soccer-508_tgmwkw.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649340650/banners/robo-soccer-1440_kuiypu.webp",
+    "overview": [
+      "In this event, the robot has to score goals in a given goal post, while competing with the other bots."
+    ],
+    "specifications": [
+      "For carrying a ball with robots, students can attach a C-clamp in front of the robot. Control of the robot can be done either by wire communication or wireless communication system.",
+      "Dimensions:",
+      "MAX LIMIT:- 35cm*30cm*20cm",
+      "BALL:- 5 cm diameter",
+      "MAX WEIGHT:- 4kg"
+    ],
+    "rules": [
+      "The rules and structure of the game will be explained to the participants at the time of the event.",
+      "The participation fee for a team of max 4 members is Rs 350.",
+      "Winners will be rewarded with attractive prizes.",
+      "A participation certificate will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "real steel",
+    "slug": "real-steel",
+    "price": 350,
+    "ticketId": "2751201",
+    "participants": "3-4",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649427286/Robotics-thumbnails/real-steel-508_wsy2ix.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649340613/banners/real-steel-1440_ix8eyb.webp",
+    "overview": ["Design and construct a remote-controlled robot capable of fighting a tournament against other bots."],
+    "specifications": [
+      "DIMENSIONS AND FABRICATIONS:",
+      "The machine should fit in a box of dimension 1000mm x 1000mm x 1000 mm at any given point during the match (considering all weapon movement also).",
+      "The machine should not exceed 50 kg. The weight of the remote controller will not be counted.",
+      "A bot can be in a “Cluster Bot” formation. Each bot must meet the requirements described in this problem statement. The total weight of all the bots cannot cross the limits in the above point. The combination of bots must be able to fit in the dimensions given in point 1.",
+      "BATTERY & POWER:",
+      "The power supply can be on board or off the board.",
+      "Only DC batteries can be used as a power source. The electric voltage between two points anywhere in the machine should not be more than 48V DC.",
+      "AC power supply will also be provided for charging your batteries (in the breaks only).",
+      "ROBOT CLASSES:",
+      "Remote Controlled (wireless control) or Manual (wired control).",
+      "WEAPONS:",
+      "All types of weapons are allowed (cutters, pneumatics with max pressure of 50 bar, fire weapons, etc.). But any weapon should not harm the audience by any means.",
+      "The machine would be checked for its safety before the competition and the team would be disqualified if their machine is found unsafe."
+    ],
+    "criteriaForVictory": [
+      "A robot is declared victorious if its opponent is immobilized (robot is not responsive for a specified period)’",
+      "Points will be given based on aggression, damage, control, and strategy:",
+      "Aggression: - Aggression is judged by the frequency, severity, boldness, and effectiveness of attacks deliberately initiated by the robot against its opponent. If a robot appears to have accidentally attacked an opponent, that act will not be considered Aggression.",
+      "Control: - Control means a robot should be able to attack an opponent at its weakest point, use its weapons most effectively, and minimize the damage caused by the opponent or its weapons.",
+      "Damage: - Through deliberate action, a robot either directly or indirectly reduces the functionality, effectiveness, or defensibility of an opponent.",
+      "Strategy: - The robot exhibits a combat plan that exploits the robot's strengths against the weaknesses of its opponent. Strategy is also defined as a robot exhibiting a deliberate defense plan that guards its weaknesses against the strengths of the opponent.",
+      "ARENA:",
+      "The arena is square, and it has two start zones."
+    ],
+    "rules": [
+      "Any weapon should not harm the audience and track by any means.",
+      "No personal abuse or violation is allowed.",
+      "The decision of organizers will be final.",
+      "Strict discipline should be maintained during the event.",
+      "Violation of any rule will be followed by instant disqualification.",
+      "The participation fee for a team of max 4 members is Rs 350.",
+      "Winners will be rewarded with attractive prizes.",
+      "A participation certificate will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "tug of bots",
+    "slug": "tug-of-bots",
+    "price": 250,
+    "ticketId": "2751205",
+    "participants": "3-4",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649427299/Robotics-thumbnails/tug-of-bots-508_cnvfa7.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649340692/banners/tug-of-bots-1440_uxalrj.webp",
+    "overview": [
+      "Here a robot will pull another robot connected with a string in a tug of war contest across the line showcasing their strength."
+    ],
+    "specifications": [
+      "Control of the robot can be done either by wire communication or wireless communication system.",
+      "The potential difference between any two points of a circuit should not exceed 12V.",
+      "The current in the circuit must not exceed 4A.",
+      "The machine must contain a hook or tow bar that allows two strings to be connected to them.",
+      "There is no limitation on the number of motors and rpm of motors to be used.",
+      "DIMENSIONS:",
+      "MAX LIMIT:- 35cm*30cm*20cm",
+      "MAX WEIGHT:- 4kg"
+    ],
+    "rules": ["The rules and structure of the game will be explained to the participants at the time of the event."]
+  }
+]

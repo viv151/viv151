@@ -1,0 +1,32 @@
+{
+  "sidebarData": [
+    {
+      "name": "Home",
+      "to": "/"
+    },
+    {
+      "name": "Events",
+      "to": "/events"
+    },
+    {
+      "name": "About",
+      "to": "/about"
+    },
+    {
+      "name": "Glimpse",
+      "to": "/glimpse"
+    },
+    {
+      "name": "Sponsors",
+      "to": "/sponsors"
+    },
+    {
+      "name": "Team",
+      "to": "/team"
+    },
+    {
+      "name": "Contact",
+      "to": "/contact"
+    }
+  ]
+}

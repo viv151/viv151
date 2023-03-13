@@ -1,0 +1,424 @@
+[
+  {
+    "allEventLink": "https://google.com",
+    "title": "Lakshya's got talent (Solo)",
+    "slug": "lgt-solo",
+    "price": 60,
+    "ticketId": "2737844",
+    "description": "none",
+    "date": "20-2-20",
+    "participants": "1",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266881/Carnival-O-fun-thumbnail/LGT_h6khxo.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338650/banners/LGT_ehn6tm.webp",
+    "overview": [
+      "Sing like a nightingale, strum like a rock star, dance to the beats, and show us all that you’ve got. Be the life of the event and we will make sure that you get recognized. If the cheers satisfy your hunger, this is the place for you."
+    ],
+    "rules": [
+      "The rules and structure of the game will be explained to the participants at the time of the event.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with cash and attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Lakshya's got talent (Group)",
+    "slug": "lgt-group",
+    "ticketId": "2737845",
+    "participants": "Group",
+    "price": 100,
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266881/Carnival-O-fun-thumbnail/LGT_h6khxo.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338650/banners/LGT_ehn6tm.webp",
+    "overview": [
+      "Sing like a nightingale, strum like a rock star, dance to the beats, and show us all that you’ve got. Be the life of the event and we will make sure that you get recognized. If the cheers satisfy your hunger, this is the place for you."
+    ],
+    "rules": [
+      "The rules and structure of the game will be explained to the participants at the time of the event.",
+      "The participation fee for group participation is Rs 100.",
+      "Winners will be rewarded with cash and attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "BGMI (Solo)",
+    "slug": "bgmi-solo",
+    "participants": "1",
+    "ticketId": "2737842",
+    "price": 50,
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266837/Carnival-O-fun-thumbnail/BGMI_jzbbw8.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338611/banners/BGMI_rgb7rt.webp",
+    "overview": [
+      "BGMI is a new free game made for Indians. It is an online multiplayer battle royale game. The game includes classic mode featuring up to 100 players (either solo or in a group). Once all 100 players are ready they get aboard a plane that flies in a straight line over the map."
+    ],
+    "eventStructure": ["All matches will be played in Erangle (TPP)."],
+    "rules": [
+      "The rules and structure of the game are according to the general rules of the game.",
+      "Registration can be done individually.",
+      "Room ID and password will be provided before the event.",
+      "Only PUBG mobile allowed, no emulator will be entertained.",
+      "The participation fee for individual participation is Rs 50.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "BGMI (Group)",
+    "slug": "bgmi-group",
+    "participants": "Group of 4",
+    "ticketId": "2737843",
+    "price": 200,
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266837/Carnival-O-fun-thumbnail/BGMI_jzbbw8.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338611/banners/BGMI_rgb7rt.webp",
+    "overview": [
+      "BGMI is a new free game made for Indians. It is an online multiplayer battle royale game. The game includes classic mode featuring up to 100 players (either solo or in a group). Once all 100 players are ready they get aboard a plane that flies in a straight line over the map."
+    ],
+    "eventStructure": [
+      "All matches will be played in Erangle (TPP).",
+      "Round 1:",
+      "There are different groups like Group A, Group B ... Group E, etc. Each group has 20 teams. From each group, the top 5 teams will be selected, other teams will be eliminated.",
+      "Round 2:",
+      "From each group, the top 5 teams will get a chance in Round 2. Round 2 will be the final and last round of the tournament. In Round 2 top 3 teams will get exciting prize money."
+    ],
+    "rules": [
+      "The rules and structure of the game are according to the general rules of the game.",
+      "Registration can be done in a group of 4 players.",
+      "Room ID and password will be provided before the event.",
+      "Only PUBG mobile allowed, no emulator will be entertained.",
+      "The participation fee for a team of 4 is Rs 200 .",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Sher-Locked",
+    "slug": "sher-locked",
+    "participants": "2-3",
+    "ticketId": "2737848",
+    "price": 150,
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266935/Carnival-O-fun-thumbnail/SHER-LOCKED_lpbreq.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338699/banners/SHER-LOCKED_ugyucd.webp",
+    "overview": [
+      "The classic game of chain of clues returns. Just when you think you have reached the pit of mystery, you will find a bigger deception. A game of thrill, mystery, confidence, and intelligence designed to place you in the boots of the classic British detective “SHERLOCK HOLMES”."
+    ],
+    "eventStructure": [
+      "Be fast, be alert. Play the most challenging game in the most challenging format. Rush the adrenaline in your veins, feel the heart pumping and enjoy the beauty of victory. Skills, power, speed, and strength, you will need them all. So, start practicing right now, the whistle is going to ring soon.",
+      "The whole college is an open jungle. Search, explore and find the target. It is not a game for the ordinary but for the best of the best. Be ready for the cutthroat and merciless competition. May the odds be ever in your favor.",
+      "The participants are required to bring a pen and a paper of their own."
+    ],
+    "rules": [
+      "The rules and structure of the game will be explained to the participants at the time of the event.",
+      "The participation fee for 2-3 participants is Rs 150.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Gully cricket",
+    "slug": "gully-cricket",
+    "price": 240,
+    "participants": "Group of 7",
+    "ticketId": "2751123",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266845/Carnival-O-fun-thumbnail/Gully_Cricket_igupb1.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338617/banners/Gully_Cricket_g7vkte.webp",
+    "overview": [
+      "The aura of cricket is in the bloodstream of the Indians. Do we need to explain the game, which was the life of your childhood. Relive the days when we were the kings of our streets, living the days of our life by this beautiful game."
+    ],
+    "rules": [
+      "The rules and structure of the game will be explained to the participants at the time of the event.",
+      "The participation fee for a team of 7 participants is Rs 240.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "badminton (singles)",
+    "slug": "badminton-singles",
+    "price": 60,
+    "participants": "1",
+    "ticketId": "2751127",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266832/Carnival-O-fun-thumbnail/BADMINTON_bscubg.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338606/banners/BADMINTON_zol0ok.webp",
+    "overview": [
+      "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Each side may only strike the shuttlecock once before it passes over the net, the play ends once the shuttlecock has struck the floor or if a fault has been called by the service judge or volunteer."
+    ],
+    "eventStructure": [
+      "Participants can participate in singles tournaments.",
+      "The number of knockout rounds will be decided as per the number of participants."
+    ],
+    "rules": [
+      "The tournament will be conducted as per BWF rules.",
+      "Further regulations regarding the game will be explained to the participants at the time of the event.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes."
+    ],
+    "NOTE": ["Participants are supposed to bring their own badminton rackets."]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "badminton (double)",
+    "slug": "badminton-doubles",
+    "participants": "2",
+    "ticketId": "2751129",
+    "price": 100,
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266832/Carnival-O-fun-thumbnail/BADMINTON_bscubg.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338606/banners/BADMINTON_zol0ok.webp",
+    "overview": [
+      "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Each side may only strike the shuttlecock once before it passes over the net, the play ends once the shuttlecock has struck the floor or if a fault has been called by the service judge or volunteer."
+    ],
+    "eventStructure": [
+      "Participants can participate in doubles tournaments.",
+      "The number of knockout rounds will be decided as per the number of participants."
+    ],
+    "rules": [
+      "The tournament will be conducted as per BWF rules.",
+      "Further regulations regarding the game will be explained to the participants at the time of the event.",
+      "The participation fee for participation in doubles is Rs 100.",
+      "Winners will be rewarded with attractive prizes."
+    ],
+    "NOTE": ["Participants are supposed to bring their own badminton rackets."]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Hidden folks",
+    "slug": "hidden-folks",
+    "participants": "2-3",
+    "ticketId": "2751131",
+    "price": 150,
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266855/Carnival-O-fun-thumbnail/HIDDEN_FOLKS_i2pkbf.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338625/banners/HIDDEN_FOLKS_alqlwt.webp",
+    "overview": [
+      "One of the most intimidating events on the list, we require you to be at your best and showcase your cognitive skills. Here participants have to search the people with given conditions."
+    ],
+    "eventStructure": [
+      "Get your tick-box, have a look around, and search for it in the whole tech fest. Here, participants don’t have to search for a thing, instead, they have to search for people with a given condition."
+    ],
+    "rules": [
+      "The rules and structure of the game will be explained to the participants at the time of the event.",
+      "The participation fee for a team of 2-3 participants is Rs 150.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Shutter bugs",
+    "slug": "shutter-bugs",
+    "price": 60,
+    "description": "none",
+    "participants": "1",
+    "ticketId": "2737849",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266946/Carnival-O-fun-thumbnail/SHUTTER-BUGS_msu6sg.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338720/banners/SHUTTER_BUGS_fzt7z3.webp",
+    "overview": [
+      "This event is organized for all those who are passionate about photography. This will be an amazing opportunity to explore yourself and put your best foot forward. You will be given a chance to take shots of the ongoing activities in the fest and get the photographer in you recognized."
+    ],
+    "eventStructure": [
+      "Round 1:",
+      "In this round, participants have to capture LAKSHYA FEST for the first day. They have to capture their best shots till 4:00 PM. Each participant is allowed to submit 3 entries with a suitable Title of the Picture and a Small Description along with the Date & Time. These three entries will be evaluated by our judges. The deadline for sending Entries is 6:00 PM on the same day.",
+      "Round 2:",
+      "In this round, the participants have to capture LAKSHYA FEST for the second day. They have to capture their best shots till 4:00 PM. Each participant is allowed to submit 3 entries with a suitable Title of the Picture and a Small Description along with the Date & Time. These three entries will be evaluated by our judges. The deadline for sending entries is 6:00 PM on the same day."
+    ],
+    "rules": [
+      "Submissions have to be according to the theme. They will not be accepted once the deadline ends.",
+      "You are required to provide a unique title and description with the date and time for each image submitted.",
+      "Room ID and password will be provided before the event.",
+      "Basic editing, including color enhancement, the use of filters, and cropping of the Photo(s) is acceptable, provided any such editing does not affect the authenticity and/or genuineness of the Photo(s).",
+      "Photos that portray or otherwise include inappropriate and/or offensive content, including provocative nudity, violence, human rights and/or environmental violation, and/or any other contents deemed to be contrary to the law, religious, cultural & moral traditions, and practices of India, are strictly prohibited and will be immediately discarded.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "street football",
+    "slug": "street-football",
+    "participants": "5",
+    "ticketId": "2751124",
+    "price": 200,
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266958/Carnival-O-fun-thumbnail/STREET-FOOTBALL_bz8sak.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338734/banners/STREET_FOOTBALL_j3znd7.webp",
+    "overview": [
+      "Play the most beautiful game in the most beautiful format. Rush the adrenaline in your veins, feel the heart pumping and enjoy the beauty of victory. Skills, power, speed, and strength, you will need them all. So, start practicing right now, the whistle is going to ring soon."
+    ],
+    "rules": [
+      "Sports Shoes are compulsory.",
+      "Other rules and structures of the game will be explained to the participants at the time of the event.",
+      "Participation fee for a group of 5 people is Rs 200.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "64 squares",
+    "slug": "64-squares",
+    "price": 60,
+    "participants": "1",
+    "ticketId": "2737846",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266832/Carnival-O-fun-thumbnail/9_tbnvae.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338606/banners/64_SQUARES_nghfn5.webp",
+    "overview": [
+      "Get ready to showcase your intellect in the mind-boggling game where players compete against each other."
+    ],
+    "eventStructure": [
+      "Bring your own Chess boards and Chess clocks (if possible).",
+      "The beginning rounds will be knockout.",
+      "Winners of the 1st round will compete against each other in the next round."
+    ],
+    "rules": [
+      "The clock timing will be 50 mins i.e. 25 mins per player.",
+      "The tournament will be conducted as per FIDE rules.",
+      "Other rules and structures of the game will be explained to the participants at the time of the event.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Barrier O' volleyball",
+    "slug": "barrier-o-volleyball",
+    "price": 240,
+    "participants": "7",
+    "ticketId": "2751154",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266833/Carnival-O-fun-thumbnail/BARRIER_O_VOLLEYBALL_eucy61.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338608/banners/BARRIER_O_VOLLEYBALL_orlxam.webp",
+    "overview": [
+      "A barrier as the name suggests, instead of a volleyball net an opaque cloth will be tied about the poles such that 6 players of each team may not see each other at all. Except for the guide who stands out on the court on either side and guides his team members playing on the court."
+    ],
+    "eventStructure": [
+      "A team consists of 7 people, where 6 people will be there as usual in the court and 1 person will remain outside the court, guiding them.",
+      "Other rotating rules will be as per the original point system in volleyball"
+    ],
+    "rules": [
+      "The rules and structure of the game will be explained to the participants at the time of the event.",
+      "The participation fee for a team of 7 participants is Rs 240.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Paintball",
+    "slug": "paintball",
+    "price": 750,
+    "participants": "5",
+    "ticketId": "2747096",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266915/Carnival-O-fun-thumbnail/paintball_sw3vz9.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338681/banners/paintball_qe0l78.webp",
+    "overview": [
+      "One of the most sought-after lifestyle games is again making its entry in LAKSHYA 2K22. Bring out the real-life counter-strike Terrorists and Counter-Terrorists in you as a tournament would be held among the participating teams."
+    ],
+    "eventStructure": [
+      "Two teams will compete against each other in the given location while wearing safety gears.",
+      "Teams losing will be eliminated in the same round itself and the team winning will advance to the next round."
+    ],
+    "rules": [
+      "The rules and structure of the game will be explained to the participants at the time of the event.",
+      "The participation fee for a team of 5 participants is Rs 750.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Meme war",
+    "slug": "meme-war",
+    "price": 60,
+    "participants": "1",
+    "ticketId": "2737847",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266897/Carnival-O-fun-thumbnail/meme-war_vsinmv.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338666/banners/MEME_WAR_zvvpwy.webp",
+    "overview": [
+      "This is a 3 round competition testing various abilities that a memer needs. The competition is all about the creativity and humor of a participant, so use every last brain cell of yours to make people laugh."
+    ],
+    "eventStructure": [
+      "Round 1:",
+      "The first round is the quiz to test your knowledge about memes. Further instructions will be given on the day of the event.",
+      "Round 2:",
+      "In the Second Round, You'll be given a limited number of meme templates to create memes. Let's see how you manage to make the best out of the limited resources.",
+      "Round 3:",
+      "This is the Final Round which will give us our Meme Lord. Let's create memes on the spot and counter other participants with those memes."
+    ],
+    "rules": [
+      "The rules and structure of the game will be explained to the participants at the time of the event.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Lan-Gaming CS:GO",
+    "slug": "lan-gaming-cs-go",
+    "price": 60,
+    "participants": "1",
+    "ticketId": "2737841",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266867/Carnival-O-fun-thumbnail/LAN-gaming_lkc8x4.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338636/banners/LAN_gaming_fnsuoe.webp",
+    "overview": [
+      "Think of yourself as the master of CS: GO? Here’s an opportunity to prove that you are the only conqueror. Compete against the likes of yourself, who consider themselves the best. Fight against them to prove your dominance and emerge as the Champions of Counter-Strike: Global Offensive."
+    ],
+    "rules": [
+      "Tournament follows a Knockout format in every round, with the winner advancing to the next round and the loser getting eliminated from the tournament.",
+      "All the knockout tournaments will be unrated.",
+      "While match-making, the participants should be present for a toss",
+      "The winner of the toss will get to choose a map and the loser will get to choose whether to defend or attack.",
+      "Participants are expected to maintain decorum throughout the event.",
+      "The decision of judges and organizers will be final and binding to all.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Lan-Gaming VALORANT",
+    "slug": "lan-gaming-valorant",
+    "price": 250,
+    "ticketId": "2751138",
+    "participants": "Group of 5",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://res.cloudinary.com/www-lakshyafestldce-com/image/upload/v1649266867/Carnival-O-fun-thumbnail/LAN-gaming_lkc8x4.webp",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649338636/banners/LAN_gaming_fnsuoe.webp",
+    "overview": [
+      "Blend your style and experience on a global, competitive stage. You have 13 rounds to attack and defend your side using sharp gunplay and tactical abilities. And, with one life per round, you'll need to think faster than your opponent if you want to survive."
+    ],
+    "eventStructure": [
+      "The first 2 rounds will be spike rush(Elimination & face-off rounds) and the remaining rounds will be standard.",
+      "The event structure can be changed as per the number of participating teams."
+    ],
+    "rules": [
+      "The match will be started once both the teams confirm they are ready after typing “READY” in the lobby chat, the confirmation is to be given by the team leader of each team.",
+      "If a player disconnects during the game, the game must continue and will not be remade.",
+      "Map: Will be disclosed during the buffer time.",
+      "If you have any internet issue (ping issue) in-game then it will be completely your responsibility.",
+      "If some player of the team will absent during the given time then it will be your fault and you will have to play will available players.",
+      "If a full team is absent during a given time then the other team directly goes to the next round.",
+      "The participation fee for a team of 5 participants is Rs 250.",
+      "Winners will be rewarded with attractive prizes."
+    ]
+  }
+]

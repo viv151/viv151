@@ -1,0 +1,143 @@
+[
+  {
+    "allEventLink": "https://google.com",
+    "title": "Hammer Brain",
+    "slug": "hammer-brain",
+    "price": 60,
+    "participants": "1",
+    "ticketId": "2737831",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649341402/banners/HAMMER_BRAIN_nkdwmf.jpg",
+    "overview": [
+      "Hammer Brain is a technical quiz related to mechanical engineering. In this event, your technical skills will be challenged."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "In the first round, there will be MCQs type questions.",
+      "There will be a quiz of 25 questions of easy to moderate level.",
+      "ROUND 2:",
+      "The selected students will again undergo a quiz of 30 questions.",
+      "This round will have short-answer-type questions, numerical questions, and MCQs."
+    ],
+    "rules": [
+      "The teams must report at the time allocated to them.",
+      "Paper will be provided to you.",
+      "Participants have to bring their own calculators.",
+      "In case of any dispute, the organizer's decision will be final.",
+      "The participation fee for individual participation is Rs 60.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Cat A Pult",
+    "slug": "cat-a-pult",
+    "price": 180,
+    "ticketId": "2737828",
+    "participants": "3",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649341164/banners/CAT-A-PULT_ahkpmd.webp",
+    "overview": [
+      "Cat-A-Pult is an event in which you have to create a mechanism that transforms one form of energy into another. The stored energy comes from building mechanisms that would use tension, torque, and gravity. You have to create a projectile motion of an object. Problem statements will be provided at the start of the event. Materials will be provided to you on the very day of the event."
+    ],
+    "materialRequired": [
+      "Sturdy wooden sticks (ice cream sticks can work)",
+      "Cello tape",
+      "Fevicol (any type of gum)",
+      "Plastic straws of various diameters",
+      "Sturdy rubber bands",
+      "Plastic cup (to use as a holder)",
+      "Small sponge/eraser/crazy ball (to use as an object to throw)",
+      "Bowls or Bucket for catching the object",
+      "Rubber bands"
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "You will have to make a specific mechanism/prototype of your own from the given problem statement.",
+      "Along with this, your prototype should also be able to perform certain tasks.",
+      "ROUND 2:",
+      "Here certain tasks will be provided to you, which have to be performed by your prototype."
+    ],
+    "rules": [
+      "The materials will be provided to the participants which are needed for the development of the mechanism.",
+      "Participants will have to use the same mechanism for the whole tournament. One cannot use different machines for different rounds.",
+      "The teams must report at the time allocated to them.",
+      "If there is any damage/loss to the tools or instruments provided then the team in possession would be liable to pay for the damage",
+      "Violation of any rule will be followed by instant disqualification.",
+      "Maximum dimensions will be revealed at the time of the event.",
+      "Judgment will be done based on accuracy, finishing, and time taken.",
+      "Use of the internet for help is strictly prohibited for this event.",
+      "The participation fee for a team of 3 participants Rs 180.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Mecha Hunt",
+    "slug": "mecha-hunt",
+    "price": 150,
+    "participants": "2-3",
+    "ticketId": "2737830",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649341572/banners/Mechahunt_qnp5ys.jpg",
+    "overview": [
+      "Mecha-Hunt is derived from the conventional treasure hunt game with certain modifications. It will have both types of clues, technical as well as non-technical. After solving all the clues you will reach the final destination. Here the main barrier for the team will be timing. The solution of each clue will help you to reach the next destination."
+    ],
+    "eventStructure": [
+      "ROUND 1: 'Know Your College'",
+      "In this round, you will be given 3 clues in total. Each leading you to the next destination. The starting point of all the teams will be different.",
+      "ROUND 2: 'Know Your Machines'",
+      "In this round, you will be given 3 clues in total, each leading you to the next destination, and at last to the final destination.",
+      "(Volunteers will ask you questions when you visit the machine and will give you the next clue only after giving the correct answer of the previous clue)."
+    ],
+    "rules": [
+      "The teams must report at the time allocated to them.",
+      "Usage of vehicles is prohibited.",
+      "If there is any damage/loss to the machine tools or instruments of the college then the team responsible for that damage would be liable to pay for the damage",
+      "The participation fee for a team of 2-3 participants is Rs 150.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  },
+  {
+    "allEventLink": "https://google.com",
+    "title": "Robotic Cad",
+    "slug": "robotic-cad",
+    "price": 150,
+    "ticketId": "2737829",
+    "participants": "3",
+    "description": "none",
+    "date": "20-2-20",
+    "thumbnail": "https://picsum.photos/500/300",
+    "banner": "https://res.cloudinary.com/lakshyafest/image/upload/v1649341635/banners/ROBOTIC_CAD_dsayrs.jpg",
+    "overview": [
+      "3-D Model designing is the heart of engineering design. Designing a 3-D model with the help of engineering knowledge is the key to this event. In every round, sufficient data will be provided to the participants. After which the participants will have to design a CAD model which will fulfill the given requirements."
+    ],
+    "eventStructure": [
+      "ROUND 1:",
+      "In this round, you will be provided with a 2-D design (Orthographic) on the event day and you have to make a 3-D (Isometric) model for that given design.",
+      "ROUND 2:",
+      "In this round, you have to make a certain mechanism that will follow a definite path and fulfill the given task successfully. The problem statement will be provided on the day of the event.",
+      "Judging criteria will be based on : total time taken, accuracy of mechanism, dimensional accuracy, labeling, editing and design of the mechanism."
+    ],
+    "rules": [
+      "You have to bring your own laptop for the CAD modeling.",
+      "You can use any CAD software for this event.",
+      "The teams must remain present at the reporting time.",
+      "Participants must submit their work within a given time limit.",
+      "Participants caught misbehaving or seeking internet help will be eliminated.",
+      "In case of any dispute, the organizer's decision will be final and binding.",
+      "The participation fee for a team of 3 participants is Rs 150.",
+      "Winners will be rewarded with attractive prizes.",
+      "Participation certificates will be given to every participant."
+    ]
+  }
+]

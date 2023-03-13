@@ -1,0 +1,25 @@
+{
+  "contactData": [
+    {
+      "img": "https://flowbite.com/docs/images/people/profile-picture-3.jpg",
+      "name": "Abinav K",
+      "type": "Campaigning Head ",
+      "mail": "abinavk02@gmail.com",
+      "phone": "+91 88490 44180"
+    },
+    {
+      "img": "https://flowbite.com/docs/images/people/profile-picture-3.jpg",
+      "name": "Khushvi Purohit",
+      "type": "Sponsorship Head",
+      "mail": "khushvipurohit59@gmail.com",
+      "phone": "+91 93276 17291"
+    },
+    {
+      "img": "https://flowbite.com/docs/images/people/profile-picture-3.jpg",
+      "name": "Adarsh Mishra",
+      "type": "Events Head",
+      "mail": "adarsh289mishra@gmail.com",
+      "phone": "+91  95104 71339"
+    }
+  ]
+}

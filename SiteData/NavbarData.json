@@ -1,0 +1,25 @@
+{
+  "navbarData": [
+    {
+      "name": "Home",
+      "to": "/"
+    },
+    {
+      "name": "Events",
+      "to": "/events"
+    },
+    {
+      "name": "About",
+      "to": "/about"
+    },
+    {
+      "name": "Sponsors",
+      "to": "/sponsors"
+    },
+    {
+      "name": "Team",
+      "to": "/team"
+    }
+    
+  ]
+}
