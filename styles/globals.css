@@ -1,60 +1,59 @@
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilitis;
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
-
 @font-face {
-  font-family: 'BatmanForeverAlternate';
-  font-style: normal;
-  font-weight: 400;
-  src: local('BatmanForeverAlternate'), url('https://fonts.cdnfonts.com/s/26368/batmfa__.woff') format('woff');
+    font-family: 'BatmanForeverAlternate';
+    font-style: normal;
+    font-weight: 400;
+    src: local('BatmanForeverAlternate'), url('https://fonts.cdnfonts.com/s/26368/batmfa__.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'BatmanForeverOutline';
-  font-style: normal;
-  font-weight: 400;
-  src: local('BatmanForeverOutline'), url('https://fonts.cdnfonts.com/s/26368/batmfo__.woff') format('woff');
+    font-family: 'BatmanForeverOutline';
+    font-style: normal;
+    font-weight: 400;
+    src: local('BatmanForeverOutline'), url('https://fonts.cdnfonts.com/s/26368/batmfo__.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'Gilroy';
-  font-style: normal;
-  src: local('Gilroy'), url('http://fonts.cdnfonts.com/css/gilroy-bold') format('woff');
+    font-family: 'Gilroy';
+    font-style: normal;
+    src: local('Gilroy'), url('http://fonts.cdnfonts.com/css/gilroy-bold') format('woff');
 }
 
 * {
-  padding: 0;
-  margin: 0;
+    padding: 0;
+    margin: 0;
 }
 
 html,
 body {
-  padding: 0;
-  margin: 0;
-  font-family: 'Poppins', sans-serif;
-  color: white;
-  background-image: url('../public/lakbg.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
-  min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-image: url('../public/lakbg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
 }
 
 b {
-  @apply font-bold text-white;
+    @apply font-bold text-white;
 }
 
 html::-webkit-scrollbar {
-  display: none;
+    display: none;
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+    color: inherit;
+    text-decoration: none;
 }
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
